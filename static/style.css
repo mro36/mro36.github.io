@@ -15,7 +15,7 @@ ul.main-menu {
     list-style-type: square;
     margin: 0;
     padding: 0;
-    border: 4px solid DodgerBlue; 
+    border: 20px solid DodgerBlue; 
 }
 
 ul.main-menu>li {
