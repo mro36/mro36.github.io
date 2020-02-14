@@ -25,6 +25,17 @@ ul.main-menu>li {
     padding: 20px;
 }
 
+ul.sub-menu {
+    list-style-type: square;
+    margin: 0;
+    padding: 0;
+}
+
+ul.sub-menu>li{
+    display: inline;
+    padding: 20px
+}
+
 nav{
     text-align: center
 }
