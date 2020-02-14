@@ -17,6 +17,7 @@ ul.main-menu {
 
 ul.main-menu>li {
     display: inline;
+    padding: 20px;
 }
 
 nav{
