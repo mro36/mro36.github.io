@@ -15,7 +15,6 @@ ul.main-menu {
     list-style-type: square;
     margin: 0;
     padding: 0;
-    border: 20px solid DodgerBlue; 
 }
 
 ul.main-menu>li {
@@ -36,11 +35,12 @@ ul.sub-menu>li{
 }
 
 nav{
-    text-align: center
+    text-align: center;
+    color: white;
 }
 nav{
-    background: white;
-    padding: 20px;
+    background: orange;
+    padding: 50px;
 }
 
 .frame {
