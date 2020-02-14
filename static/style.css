@@ -1,5 +1,5 @@
 body { 
-    font-family: 'Georgie', 'serif';
+    font-family: 'Raleway', sans-serif;
     font-size: 125%;
     background-color: #6dc0d5;
 }
@@ -18,6 +18,14 @@ ul.main-menu {
 
 ul.main-menu>li {
     display: inline;
+}
+
+nav{
+    text-align: center
+}
+nav{
+    background: white;
+    padding: 20px;
 }
 
 .frame {
