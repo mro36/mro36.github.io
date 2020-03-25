@@ -1,1 +1,21 @@
-
+<TABLE BORDER="2">
+            <TR>
+               <TH COLSPAN="5">
+                  <h3><br>Table Title</h3>
+               </TH>
+             </TR>
+             <TR>
+                <TH>Assignment</TH>
+                <TH>Status</TH>
+                <TH>Date Started</TH>
+                <TH>Date Completed</TH>
+                <TH>Notes</TH>
+             </TR>
+             <TR>
+               <TD>Data1</TD>
+               <TD>Data1</TD>
+               <TD>Data1</TD>
+               <TD>Data1</TD>
+               <TD>Data1</TD>
+             </TR>
+       </TABLE>
