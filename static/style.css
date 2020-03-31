@@ -51,3 +51,14 @@ nav{
     margin-right: auto;
     display: block;
 }
+
+a:link{
+    color: HotPink;
+}
+a:visited{
+    color: GreenYellow;
+}
+a:hover{
+    color: Cyan;
+}
+    
