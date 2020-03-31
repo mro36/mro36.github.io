@@ -1,7 +1,7 @@
 body {
     font-family: 'Khand', sans-serif;
     font-size: 125%;
-    background-color: orange;
+    background-color: yellow;
     color: white;
 }
 
@@ -9,12 +9,14 @@ h1 {
     text-align: center;
     margin-bottom: 15px;
     font-stretch: expanded;
+    background-color: orange;
 }
 
 ul.main-menu {
     list-style-type: square;
     margin: 0;
     padding: 0;
+    background-color: green;
 }
 
 ul.main-menu>li {
