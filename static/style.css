@@ -53,10 +53,10 @@ nav{
 }
 
 a:link{
-    color: HotPink;
+    color: LimeGreen;
 }
 a:visited{
-    color: LimeGreen;
+    color: HotPink;
 }
 a:hover{
     color: Cyan;
