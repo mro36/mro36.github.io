@@ -3,6 +3,13 @@ body {
     font-size: 150%;
     background-color: BlueViolet;
     color: white;
+    background: #000;
+    background-image:
+        radial-gradient(#fff 30%, transparent 0),
+        radial-gradient(#fff 30%, transparent 0);
+    background-size: 600px 600px;
+    background-position: 0 0, 300px 300px;
+
 }
 
 h1 {
