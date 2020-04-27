@@ -4,9 +4,9 @@ body {
     background-color: BlueViolet;
     color: white;
     border-style: solid;
-    border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
+    border-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
     border-color: white;
 }
 
