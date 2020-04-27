@@ -74,12 +74,12 @@ img {
   width: 150px;
 }
 
-.dropdown {
+ul.sub-menu.dropdown {
   position: relative;
   display: inline-block;
 }
 
-.dropdown-content {
+ul.sub-menu.dropdown-content {
   display: none;
   position: absolute;
   background-color: white;
@@ -89,6 +89,6 @@ img {
   z-index: 1;
 }
 
-.dropdown:hover .dropdown-content {
+ul.sub-menu.dropdown:hover .dropdown-content {
   display: block;
 }
