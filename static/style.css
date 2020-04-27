@@ -22,7 +22,7 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
     padding: 20px;
-    color: BlueViolet;
+    color: LightCyan;
 }
 
 ul.sub-menu {
@@ -56,7 +56,7 @@ a:link{
     color: white;
 }
 a:visited{
-    color: white;
+    color: LightCyan;
 }
 a:hover{
     color: Cyan;
