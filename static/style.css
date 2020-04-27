@@ -1,7 +1,7 @@
 body {
     font-family: 'Khand', sans-serif;
     font-size: 150%;
-    background-color: Aquamarine;
+    background-color: BlueViolet;
     color: white;
 }
 
@@ -9,20 +9,20 @@ h1 {
     text-align: center;
     margin-bottom: 15px;
     font-stretch: expanded;
-    background-color: Aquamarine;
+    background-color: BlueViolet;
 }
 
 ul.main-menu {
     list-style-type: square;
     margin: 0;
     padding: 0;
-    background-color: Aquamarine;
+    background-color: BlueViolet;
 }
 
 ul.main-menu>li {
     display: inline;
     padding: 20px;
-    color: Aquamarine;
+    color: BlueViolet;
 }
 
 ul.sub-menu {
@@ -41,7 +41,7 @@ nav{
     color: white;
 }
 nav{
-    background: Aquamarine;
+    background: BlueViolet;
     padding: 50px;
 }
 
